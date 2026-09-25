@@ -1,0 +1,1 @@
+BizInsight AI — Business sales analytics dashboard built with Python, Pandas, Plotly and Streamlit. Analyze revenue, costs, profit, product performance and sales trends with actionable business insights.
